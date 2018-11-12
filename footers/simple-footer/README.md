@@ -1,0 +1,1 @@
+﻿Szablon prostej stopki html.
