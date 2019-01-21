@@ -1,1 +1,1 @@
-# Moje-HTML-komponenty
+# HTML-komponenty
